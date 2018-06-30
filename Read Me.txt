@@ -1,0 +1,11 @@
+Tutorial Link:
+
+Tambien te recomendamos
+como rellenar un spinner en android desde una base de datos en Mysql
+http://android-morefast.blogspot.com/2016/05/llenar-spinner-en-android-desde-una.html
+
+Mostrar datos en un ListView extraido de una base de datos en Postgresql
+http://android-morefast.blogspot.com/2016/05/mostrar-datos-en-un-listview-extraido.html
+
+Creado por: AndroidMorefast
+http://android-morefast.blogspot.com
